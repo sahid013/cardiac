@@ -2,6 +2,8 @@
 
 This is a health tracker app which can be quite handy for people who wants to keep track their health record (i.e. systolic pressure, diastolic pressure, heart rate) for maintaining a healthy and sound life.
 
+## Javadoc file for database documentation
+[documentation for database](https://sahid013.github.io/host-page/)
 
 
 ## Features
